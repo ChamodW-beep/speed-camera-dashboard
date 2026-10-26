@@ -1,12 +1,10 @@
-venv/
 .venv/
-node_modules/
+venv/
 __pycache__/
 *.pyc
+node_modules/
+dist/
+backend/data/
+*.pt
 .DS_Store
 .env
-*.mp4
-*.pt
-*.db
-captures/
-dist/
